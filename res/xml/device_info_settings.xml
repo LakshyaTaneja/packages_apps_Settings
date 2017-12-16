@@ -71,6 +71,11 @@
                 android:title="@string/firmware_version"
                 android:summary="@string/summary_placeholder"/>
 
+        <!-- CafusionOS version -->
+        <Preference android:key="cafusion_version"
+                android:title="@string/cafusion_version"
+                android:summary="@string/cafusion_version_default" />
+
         <!-- Security patch level -->
         <Preference android:key="security_patch"
                 android:title="@string/security_patch"

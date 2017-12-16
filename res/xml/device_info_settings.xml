@@ -90,12 +90,6 @@
                 android:key="baseband_version"
                 android:title="@string/baseband_version"
                 android:summary="@string/summary_placeholder"/>
-        
-        <!-- CafusionOS version -->
-        <Preference android:key="cafusion_version"
-                android:title="@string/cafusion_version"
-                android:summary="@string/cafusion_version_default" />
-       
 
         <!-- Device Kernel version -->
         <Preference
